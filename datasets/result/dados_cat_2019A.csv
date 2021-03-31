@@ -1,0 +1,26 @@
+agente;cbo;cid;cnae;obito;natureza;parte;sexo;tipo_acidente;uf_emp;idade;anoMes
+Veiculo, Nic;521105;S06;1122;Não;Lesao Imediata, Nic;Cabeca, Nic;Masculino;Trajeto;Amazonas;31.0;201905
+Animal Vivo;621005;S93;141;Não;Distensao, Torcao;Perna (Entre O Torno;Masculino;Típico;Mato Grosso do Sul;21.0;201912
+Motocicleta, Motonet;411005;S067;6619;Não;Concussao Cerebral;Cabeca, Nic;Masculino;Típico;Maranhão;28.0;201912
+Impacto Sofrido por;331205;S826;8512;Não;Fratura;Articulacao do Torno;Feminino;Típico;Minas Gerais;43.0;201912
+Veiculo Rodoviario M;782510;S420;4930;Não;Fratura;Ombro;Masculino;Típico;Minas Gerais;43.0;201912
+Metal - Inclui Liga;724315;S625;3314;Não;Lesao Imediata, Nic;Dedo;Masculino;Típico;Minas Gerais;48.0;201912
+Tubo, Manilha - Cera;783225;S202;4635;Não;Contusao, Esmagament;Quadris (Inclusive P;Masculino;Típico;Minas Gerais;47.0;201912
+Motocicleta, Motonet;521140;S424;4711;Não;Fratura;Braco (Entre O Punho;Feminino;Trajeto;Minas Gerais;25.0;201912
+Motocicleta, Motonet;519110;S431;4782;Não;Luxacao;Tronco, Parte Multip;Masculino;Típico;Minas Gerais;23.0;201912
+Ser Vivo, Nic;421105;F431;5310;Não;Lesao Imediata;Sistema Nervoso;Feminino;Trajeto;Pará;32.0;201910
+Equip. de Guindar, N;621005;S626;161;Não;Lesoes Multiplas;Membros Inferiores,;Masculino;Típico;Paraná;41.0;201912
+{ñ class};351605;S834;8211;Não;Contusao, Esmagament;Joelho;Masculino;Típico;Pernambuco;26.0;201912
+Chao - Superficie Ut;782510;S934;3811;Não;Distensao, Torcao;Articulacao do Torno;Masculino;Típico;Pernambuco;47.0;201912
+Piso de Edificio - S;514115;S52;9491;Não;Fratura;Membros Inferiores,;Feminino;Típico;Pernambuco;51.0;201912
+Equip. Eletrico, Nic;848310;S610;1091;Não;Contusao, Esmagament;Sistema Musculo-Esqu;Masculino;Típico;Piauí;35.0;201908
+Metal - Inclui Liga;954120;S628;2513;Não;Fratura;Artelho;Masculino;Típico;Rio Grande do Sul;45.0;201912
+Queda de Pes. com Di;724315;S662;1041;Não;Distensao, Torcao;Membros Superiores,;Masculino;Típico;Rio Grande do Sul;43.0;201912
+Britador, Moinho - M;821445;S681;3832;Não;Fratura;Membros Superiores,;Masculino;Típico;Rio Grande do Sul;50.0;201912
+Forno, Estufa, Retor;621005;S610;150;Não;Lesao Imediata, Nic;Dedo;Masculino;Típico;Rio Grande do Sul;27.0;201912
+Empilhadeira;414105;T149;1011;Não;Contusao, Esmagament;Perna (Do Tornozelo,;Masculino;Típico;Santa Catarina;34.0;201912
+Prensa - Maquina;784205;S626;2790;Não;Contusao, Esmagament;Dedo;Masculino;Típico;São Paulo;36.0;201912
+Revestimento Ceramic;521110;S924;4744;Não;Fratura;Pe (Exceto Artelhos);Feminino;Típico;São Paulo;42.0;201912
+{ñ class};223505;S923;8610;Não;Fratura;Pe (Exceto Artelhos);Feminino;Típico;São Paulo;40.0;201912
+Veiculo Rodoviario M;782510;S630;4729;Não;Fratura;Punho;Masculino;Típico;Goiás;58.0;201912
+Escada Permanente Cu;141510;M51;5611;Não;Contusao, Esmagament;Dorso (Inclusive Mus;Masculino;Típico;São Paulo;33.0;201912
